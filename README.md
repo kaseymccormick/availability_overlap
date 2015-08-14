@@ -19,22 +19,22 @@
 - users can only provide their info and availability
 
 ###cool to haves
-map with zip codes pinned/highlighted
-time zone algorythms
+- - map with zip codes pinned/highlighted
+- time zone algorythms
 
 
 ## Data to collect from all users
-first name
-last name
-email
-password
-picture
-zip code
-time zone
-availaibility
-person creating poll or taking it _the poll in question_
+- first name
+- last name
+- email
+- password
+- picture
+- zip code
+- time zone
+- availaibility
+- person creating poll or taking it _the poll in question_
 
 ###nice to haves
-allergens or dietary restrictions vegan vegitarian et
-age
-position? (board member etc)
+- allergens or dietary restrictions vegan vegitarian et
+- age
+- position? (board member etc)
