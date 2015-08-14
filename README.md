@@ -19,7 +19,7 @@
 - users can only provide their info and availability
 
 ###cool to haves
-- - map with zip codes pinned/highlighted
+- map with zip codes pinned/highlighted
 - time zone algorythms
 
 
