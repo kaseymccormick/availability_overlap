@@ -1,22 +1,22 @@
 ##should be able to do
-log in
-sign up
-set up poll 
-  -set days
-  -set times
-send out poll
-collect data on poll
-provide best day and time from data on poll live
-weight responders 
+- log in
+- sign up
+- set up poll 
+  - set days
+  - set times
+- send out poll
+- collect data on poll
+- provide best day and time from data on poll live
+- weight responders 
   - provide best day and time with this data factored
-edit profile
-edit own availability
-lock poll after sending for feedback
+- edit profile
+- edit own availability
+- lock poll after sending for feedback
 
 *considerations*
-access to poll ifnormation limited?
-admin can set up polls and weights
-users can only provide their info and availability
+- access to poll ifnormation limited?
+- admin can set up polls and weights
+- users can only provide their info and availability
 
 ###cool to haves
 map with zip codes pinned/highlighted
